@@ -17,7 +17,7 @@ After install: (Debian/Ubuntu):
 
 
 
-Open [http://127.0.0.1:4646/](http://127.0.0.1:4646/ui/jobs/run)
+Open [http://127.0.0.1:4646/ui/jobs/run](http://127.0.0.1:4646/ui/jobs/run)
 
 
 copy/paste data from microservice.nomad
