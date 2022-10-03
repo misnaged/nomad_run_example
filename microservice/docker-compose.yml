@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+  
+  # gateway services
+
+  microservice:
+    image: misnaged/microservice:latest
+    build:
+      context: ../microservice
+      dockerfile: Dockerfile
+    network_mode: host
+
+
